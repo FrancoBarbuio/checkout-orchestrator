@@ -68,6 +68,6 @@ Body:
 **Franco Barbuio**
 * Rol: Junior Backend Developer (Java / Spring Boot)
 * LinkedIn: https://www.linkedin.com/in/franco-barbuio/
-* Email: franco@ejemplo.com
+* Email: franaereo@gmail.com
 
 Desarrollado con enfoque en buenas prácticas, código limpio y escalabilidad.
